@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 #include <sqlite3.h>
-
+//no clue whats going on
 using namespace std;
 
 // Callback function for displaying query results
