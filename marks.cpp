@@ -2,6 +2,7 @@
 #include <string>
 #include <sqlite3.h>
 //no clue whats going on
+//gftehyjdk
 using namespace std;
 
 // Callback function for displaying query results
